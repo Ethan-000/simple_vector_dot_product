@@ -1,0 +1,10 @@
+{
+    "program": "vec5_dot.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBtYTe1ZCUjBfRQSJ75DH6awxpsJoWScPdfTJtLHW2F94",
+        "address": "aleo1mvdue7zvm5uhcz447pc30p82t7d5xqjncsjptzr7rezr7v6zquxsu9h5kv"
+    },
+    "license": "MIT"
+}
